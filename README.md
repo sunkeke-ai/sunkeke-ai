@@ -1,4 +1,4 @@
-## Hi there, I'm KeKe
+## Hi, I'm KeKe 👋🏻
 
 I build AI skills and workflows that help social media creators turn ideas into polished content faster.
 
