@@ -19,9 +19,11 @@ I build practical workflows, skills, and interfaces that help creators move from
 - ✉️ [19526046@qq.com](mailto:19526046@qq.com)
 - 📕 [孙可可（AI版）](https://www.xiaohongshu.com/user/profile/5904968350c4b45d26725acb)
 
-<a href="https://x.com/Sunkeke_AI">
-  <img src="./sunkeke-x-card.png" alt="Follow Sunkeke on X" width="100%">
-</a>
+<p align="center">
+  <a href="https://x.com/Sunkeke_AI">
+    <img src="./sunkeke-x-card.png" alt="Follow Sunkeke on X" width="50%">
+  </a>
+</p>
 
 ## Featured Projects
 
