@@ -1,14 +1,6 @@
-<div align="center">
-
-# Hi, I'm Keke 👋
-
-### I turn creator workflows into AI-powered tools and skills.
-
-</div>
-
 ## About Me
 
-I'm a non-traditional builder creating practical AI tools for content creation and knowledge management.
+I build AI skills and workflows that help social media creators turn ideas into polished content faster.
 
 ## 📫 How to reach me
 
@@ -31,9 +23,3 @@ I'm a non-traditional builder creating practical AI tools for content creation a
 | [⚙️ Keke Media Workflow](https://github.com/sunkeke-ai/keke-media-workflow) | An end-to-end AI content workflow for creators. |
 | [🎙️ Xiaohongshu Spoken Workflow](https://github.com/sunkeke-ai/xiaohongshu-spoken-workflow) | Turns spoken ideas into structured Xiaohongshu content. |
 | [✍️ WeChat Article Studio](https://github.com/sunkeke-ai/keke-wechat-article-studio1) | A focused workflow for drafting and packaging WeChat articles. |
-
-## Building in Public
-
-**Learn → Build → Package → Teach**
-
-I use AI coding agents to turn real creator problems into small, useful products — and share what I learn along the way.
