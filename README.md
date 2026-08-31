@@ -4,8 +4,6 @@
 
 ### I turn creator workflows into AI-powered tools and skills.
 
-用 AI Coding Agent，把内容创作流程做成真正可用的产品。
-
 </div>
 
 ## About Me
@@ -25,9 +23,9 @@ I build practical workflows, skills, and interfaces that help creators move from
   </a>
 </p>
 
-## Featured Projects
+## My Products
 
-| Project | What it does |
+| Product | What it does |
 | --- | --- |
 | [🟣 Codex Active Island](https://github.com/sunkeke-ai/Codex-active-island) | A desktop Dynamic Island for Codex status, focus management, and Obsidian notes. |
 | [🎨 Xiaohongshu Cover Skill](https://github.com/sunkeke-ai/xiaohongshu-cover-skill) | Generates pastel 3D clay-style covers for Xiaohongshu content. |
