@@ -8,18 +8,16 @@
 
 ## About Me
 
-I'm a non-traditional builder exploring the intersection of **AI × Content Creation × Knowledge Management**.
-
-I build practical workflows, skills, and interfaces that help creators move from an idea to a finished piece of content with less friction.
+I'm a non-traditional builder creating practical AI tools for content creation and knowledge management.
 
 ## 📫 How to reach me
 
-- ✉️ [19526046@qq.com](mailto:19526046@qq.com)
+- ✉️ [sunkeke.ai@gmail.com](mailto:sunkeke.ai@gmail.com)
 - 📕 [孙可可（AI版）](https://www.xiaohongshu.com/user/profile/5904968350c4b45d26725acb)
 
 <p align="center">
   <a href="https://x.com/Sunkeke_AI">
-    <img src="./sunkeke-x-card.png" alt="Follow Sunkeke on X" width="50%">
+    <img src="./sunkeke-x-card.png" alt="Follow Sunkeke on X" width="38%">
   </a>
 </p>
 
