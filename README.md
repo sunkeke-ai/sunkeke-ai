@@ -14,11 +14,14 @@ I'm a non-traditional builder exploring the intersection of **AI × Content Crea
 
 I build practical workflows, skills, and interfaces that help creators move from an idea to a finished piece of content with less friction.
 
-## What I'm Building
+## 📫 How to reach me
 
-- **Creator Skills** — reusable AI skills for writing, visual creation, and personal IP
-- **Content Workflows** — structured systems for Xiaohongshu and WeChat creators
-- **Agent Interfaces** — clearer, more human ways to work with AI coding agents
+- ✉️ [19526046@qq.com](mailto:19526046@qq.com)
+- 📕 [孙可可（AI版）](https://www.xiaohongshu.com/user/profile/5904968350c4b45d26725acb)
+
+<a href="https://x.com/Sunkeke_AI">
+  <img src="./sunkeke-x-card.png" alt="Follow Sunkeke on X" width="100%">
+</a>
 
 ## Featured Projects
 
